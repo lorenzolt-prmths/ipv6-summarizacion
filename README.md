@@ -59,21 +59,21 @@ traceroute 2001:A:A:A::2
 ![trace-route](img/traceroute.png)
 
 🛠️ Comandos utilizados
-ipv6 unicast-routing
-ipv6 route
-show ipv6 route
-show ipv6 interface brief
-show ipv6 neighbors
+-ipv6 unicast-routing
+-ipv6 route
+-show ipv6 route
+-show ipv6 interface brief
+-show ipv6 neighbors
 
 ⚙️ Tecnologías utilizadas
-Cisco Packet Tracer
-IPv6
-Routing
-Sumarización de rutas
-Redes LAN/WAN
+-Cisco Packet Tracer
+-IPv6
+-Routing
+-Sumarización de rutas
+-Redes LAN/WAN
 🎯 Objetivos del proyecto
-Configurar direcciones IPv6
-Habilitar enrutamiento IPv6
-Aplicar sumarización de rutas
-Reducir el tamaño de la tabla de routing
-Verificar conectividad entre redes
+-Configurar direcciones IPv6
+-Habilitar enrutamiento IPv6
+-Aplicar sumarización de rutas
+-Reducir el tamaño de la tabla de routing
+-Verificar conectividad entre redes
