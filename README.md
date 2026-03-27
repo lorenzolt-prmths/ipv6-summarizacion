@@ -37,7 +37,7 @@ La sumarización permite:
 Se ha comprobado la tabla de rutas con el comando:
 
 show ipv6 route
-![ipv6-routing](img/ipv6-routing.png)
+![ipv6-routing](img/ipv6-route.png)
 
 En la tabla se observan:
 C → Connected
