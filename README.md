@@ -59,11 +59,11 @@ traceroute 2001:A:A:A::2
 ![trace-route](img/traceroute.png)
 
 🛠️ Comandos utilizados
--ipv6 unicast-routing
--ipv6 route
--show ipv6 route
--show ipv6 interface brief
--show ipv6 neighbors
+- ipv6 unicast-routing
+- ipv6 route
+- show ipv6 route
+- show ipv6 interface brief
+- show ipv6 neighbors
 
 ⚙️ Tecnologías utilizadas
 -Cisco Packet Tracer
